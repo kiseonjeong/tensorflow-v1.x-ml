@@ -1,4 +1,3 @@
-from numpy.core.arrayprint import _leading_trailing
 import ignore
 import tensorflow as tf
 import numpy as np
