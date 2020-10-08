@@ -1,0 +1,8 @@
+\retrain.py
+\workspace
+ \flower_photos
+  \daisy
+  \dandelion
+  \roses
+  \sunflowers
+  \tulips
